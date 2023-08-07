@@ -17,14 +17,17 @@ body {
 
 #container {
     border: 3px solid black;
-    height: fit-content;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 footer {
-    background-color: yellowgreen;
+    background-color: aquamarine;
     height: 40vh;
+    width: 80%;
     position: relative;
-    align-self: flex-end;
 }
 
 #bubble-wrapper {
