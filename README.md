@@ -1,3 +1,5 @@
+![GIF](/assets/video01.gif)
+
 ![Screenshot 1](/assets/02.png)
 
 ![Screenshot 2](/assets/01.png)
